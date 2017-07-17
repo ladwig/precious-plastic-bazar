@@ -36,7 +36,25 @@ a.home-categories-sub {
     padding: 5px 10px!important;
 }
 
-b, strong {
-    font-weight: bold;
-    color: #f58d8e;
+/* All listing type container */
+.toggle-header-container {
+    background-color: white;
+}
+
+/* All listing type text */
+.toggle-header {
+    color: #474747 !important;
+}
+
+/* Toggle container */
+.toggle-menu {
+    padding-left: 20px;
+    background-color: white;
+}
+
+/* Toggle item */
+.toggle-menu a, {
+    color: #474747 !important;
+    padding: 0.75em;
+    padding-right: 0.75em;
 }
