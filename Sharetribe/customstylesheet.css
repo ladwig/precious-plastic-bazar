@@ -73,9 +73,3 @@ a.home-categories-sub {
   background-color: white;
   color: #f58d8e !important;
 }
-
-.toggle-menu a, .toggle-menu a .feedback, .toggle-menu .toggle-menu-item, .toggle-menu .toggle-menu-title, .toggle-menu .toggle-menu-item .feedback, .toggle-menu .toggle-menu-title .feedback {
-    color: #f58d8e !important;
-    padding: 0.75em;
-    padding-right: 0.75em;
-}
