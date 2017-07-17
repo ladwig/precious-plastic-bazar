@@ -60,7 +60,7 @@ a.home-categories-sub {
 }
 
 .toggle.toggled {
-    color: #474747;
+    color: #474747!important;
 }
 
 .toggle-menu-subitem:hover {
