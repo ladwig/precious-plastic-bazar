@@ -58,11 +58,7 @@ a.home-categories-sub {
     color: #474747!important;
 }
 
-.toggle-menu-subitem:hover {
-  color: #f58d8e;
-  background-color: white!important;
-}
-
+/* Toggle item hover */
 .toggle-menu a:hover {
   background-color: white;
   color: #f58d8e !important;
