@@ -54,6 +54,12 @@ a.home-categories-sub {
 }
 
 /* Toggle item */
+.toggle-menu a, .toggle-menu a .feedback, .toggle-menu .toggle-menu-item, .toggle-menu .toggle-menu-title, .toggle-menu .toggle-menu-item .feedback, .toggle-menu .toggle-menu-title .feedback {
+    color: #474747 !important;
+    padding: 0.75em;
+    padding-right: 0.75em;
+}
+
 .toggle.toggled {
     color: #474747!important;
 }
