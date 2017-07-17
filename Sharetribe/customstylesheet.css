@@ -94,3 +94,7 @@ a.home-categories-sub:hover {
   border-bottom: 1px solid #c3c3c3!important;
   background-color: #fff!important;
 }
+
+.fluid-thumbnail-grid-image-overlay:hover{
+  transform: scale(0.5);
+}
