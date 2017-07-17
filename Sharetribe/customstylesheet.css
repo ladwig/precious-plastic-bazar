@@ -59,10 +59,11 @@ a.home-categories-sub {
     padding-right: 0.75em;
 }
 
-.feed-actions .request-link, .view-item .listing-icons a:hover, .pagination a, a, .checkbox-option-checkmark {
-    color: #green;
+.toggle.toggled {
+    color: #474747;
 }
 
 .toggle-menu-subitem:hover {
   color: #f58d8e;
+  background-color: white!important;
 }
