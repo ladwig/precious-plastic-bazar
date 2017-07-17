@@ -62,3 +62,7 @@ a.home-categories-sub {
 .feed-actions .request-link, .view-item .listing-icons a:hover, .pagination a, a, .checkbox-option-checkmark {
     color: #green;
 }
+
+.toggle-menu-subitem:hover {
+  color: #f58d8e;
+}
