@@ -80,8 +80,17 @@ a.home-categories-sub {
     padding-right: 0.75em;
 }
 
-.first span:nth-child(2n+1),
-
+/* Hide all listing types */
 .home-toolbar-share-type-menu a:nth-child(1), .toggle-menu a:nth-child(1) {
   display: none;
+}
+
+
+a.home-categories-sub {
+    background-color: #fff!important;
+}
+
+a.home-categories-sub:hover {
+  border-bottom: 1px solid #f5f5f5!important;
+  background-color: #fff!important;
 }
