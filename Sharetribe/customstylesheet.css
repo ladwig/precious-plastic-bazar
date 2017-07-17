@@ -79,3 +79,9 @@ a.home-categories-sub {
     padding: 0.75em;
     padding-right: 0.75em;
 }
+
+.first span:nth-child(2n+1),
+
+.home-toolbar-share-type-menu a:nth-child(2n+1), .toggle-menu a:nth-child(2n+1) {
+  display: none;
+}
