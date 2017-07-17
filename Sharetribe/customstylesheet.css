@@ -49,13 +49,14 @@ a.home-categories-sub {
 /* Toggle container */
 .toggle-menu {
     padding-left: 20px;
+    padding-right: 20px;
     background-color: white;
 }
 
 /* Toggle item */
 .toggle-menu a, .toggle-menu a .feedback, .toggle-menu .toggle-menu-item, .toggle-menu .toggle-menu-title, .toggle-menu .toggle-menu-item .feedback, .toggle-menu .toggle-menu-title .feedback {
     color: #474747 !important;
-    padding: 0.5em;
+    padding: 0.75em;
     padding-right: 0.75em;
 }
 
@@ -66,4 +67,8 @@ a.home-categories-sub {
 .toggle-menu-subitem:hover {
   color: #f58d8e;
   background-color: white!important;
+}
+
+.toggle-menu a:hover {
+  background-color: white;
 }
